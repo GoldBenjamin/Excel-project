@@ -1,2 +1,2 @@
-# Excel-project
-My first excel project while taking a data analysis course 
+# Amazon case study Excel-project
+  This is my DSA project on Amazon case study.
